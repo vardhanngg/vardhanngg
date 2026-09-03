@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/vardhanngg/vardhanngg/main/header.png)](https://www.linkedin.com/in/vardhan-g-882866290/)
+[![header](https://raw.githubusercontent.com/vardhanngg/vardhanngg/main/header.png?v=2)](https://www.linkedin.com/in/vardhan-g-882866290/)
 # Hi, I'm Vardhan 👋
 
 I'm a Computer Science student interested in understanding how computers work from the ground up.
